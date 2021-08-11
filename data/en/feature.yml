@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : We’re an Agile Software Development Company.
+  content : "We are specialized in the development of software products supported on Blockchain, Artificial Intelligence and Analytics to support our clients in their digital transformation processes faster and more reliable, bringing real value in the growth of their enterprise business."
+  feature_item : 
+      # feature item loop
+    - title : Agile Project Management
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : We review the client's requirements, we make an analysis of the analysis of the problem and proceed to design the solution. We seek to ensure that from the the needs of our client are clear from the needs of our client are clear so that they can be be satisfied.
+      
+      # feature item loop
+    - title : Implementing Codes
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : We choose the best strategy and technologies to build the solution. We follow the devops standards and techniques to make the quality assessment and and make the respective deployment.
+      # feature item loop
+
+    - title : Support
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : We support our customers after delivery to give you the assurance that you have a professional team that gives you security and confidence.
+            
+      # feature item loop
+    - title : QA
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : We carry out quality tests to satisfy our customer's needs and evaluate evaluate possible improvements or new implementations new implementations in response to response to new requirements. We do thisiteratively until we reach the established goals.
