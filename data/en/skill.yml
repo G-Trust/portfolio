@@ -6,21 +6,14 @@ skill:
   content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
   image : images/about/company-growth.webp
   skill_item :
-    # skill item loop
-    - name :  Business Development
-      percent : 90%
-      
-    # skill item loop
-    - name :  Analysis
+     # skill item loop
+    - name :  Python - Django - Flask - FastAPI
       percent : 70%
       
     # skill item loop
-    - name :  Design
-      percent : 80%
-      
-    - name :  IOS Development
-      percent : 95%
-      
+    - name :  Javascript - React.js - Vue.js - React Native
+      percent : 80%      
+
     # skill item loop
-    - name :  Android Development
-      percent : 75%
+    - name :  Blockchain - Smart Contract - Ethereum - Hyperledger
+      percent : 95%

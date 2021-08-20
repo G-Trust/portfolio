@@ -6,29 +6,16 @@ service:
     # service item loop
     - name : Blockchain
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : We offer blockchain consulting and development services to help you implement the best distributed system for your business needs. We can help you with the development of the blockchain protocol, the implementation of the system and the deployment of the system.      
       
     # service item loop
-    - name : Mlops and data science
+    - name : MLops and Data Science
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : We offer MLops and Data Science consulting and development services to help you get wroth with the latest trends in machine learning and data science. We can help you with the development of the MLops system, the implementation of the system and the deployment of the system. 
       
     # service item loop
     - name : Apps Development
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Our team has extensive experience in full-stack web application development and API development with React, Java, Python, Node.js and more, we have the team to help you get your web applications right. The quality of our work is guaranteed, we are always ready to help you with any questions you may have.
       
-    # service item loop
-    - name : Digital transformation
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : DevOps
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Education
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+
