@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://gtrustdev.github.io"
+baseURL = "https://gtrust.dev"
 title = "GTrust"
 theme = "meghna-hugo"
 # post pagination
@@ -40,10 +40,37 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 
+
+################### Spanish Navigation ########################
+[[Languages.es.menu.main]]
+name = "¿Quienes somos?"
+url = "#feature"
+weight = 1
+
+[[Languages.es.menu.main]]
+name = "Servicios"
+url = "#services"
+weight = 2
+
+[[Languages.es.menu.main]]
+name = "equipo"
+url = "#team"
+weight = 3
+
+[[Languages.es.menu.main]]
+name = "blog"
+url = "#blog"
+weight = 4
+
+[[Languages.es.menu.main]]
+name = "contacto"
+url = "#contact"
+weight = 5
+
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
 name = "about"
-url = "#about"
+url = "#feature"
 weight = 1
 
 [[Languages.en.menu.main]]
@@ -66,32 +93,6 @@ name = "contact"
 url = "#contact"
 weight = 5
 
-
-################### French Navigation ########################
-[[Languages.fr.menu.main]]
-name = "¿Quienes somos?"
-url = "#about"
-weight = 1
-
-[[Languages.fr.menu.main]]
-name = "Servicios"
-url = "#services"
-weight = 2
-
-[[Languages.fr.menu.main]]
-name = "equipo"
-url = "#team"
-weight = 3
-
-[[Languages.fr.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 4
-
-[[Languages.fr.menu.main]]
-name = "contacto"
-url = "#contact"
-weight = 5
 
 
 ############################# Default Parameters ##########################
@@ -160,10 +161,10 @@ home = "Home"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
 
 ################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
+[Languages.es]
+languageName = "Es"
+languageCode = "es-co"
+contentDir = "content/spanish"
 weight = 2
 home = "Accueil"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
