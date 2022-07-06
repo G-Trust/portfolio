@@ -9,7 +9,7 @@ summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = []
+disableLanguages = ["Es"]
 
 ############################# Plugins ##########################
 # css plugins
@@ -79,19 +79,9 @@ url = "#services"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "team"
-url = "#team"
-weight = 3
-
-[[Languages.en.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 4
-
-[[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 5
+weight = 3
 
 
 
