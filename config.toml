@@ -69,17 +69,17 @@ weight = 5
 
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
-name = "about"
+name = "About"
 url = "#feature"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "services"
+name = "Services"
 url = "#services"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "contact"
+name = "Contact"
 url = "#contact"
 weight = 3
 
