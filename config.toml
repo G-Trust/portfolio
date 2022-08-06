@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://gtrust.dev"
+baseURL = "https://portfolio-page-three-xi.vercel.app/"
 title = "GTrust"
 theme = "meghna-hugo"
 # post pagination
