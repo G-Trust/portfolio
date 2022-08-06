@@ -27,7 +27,7 @@ h5,
 h6 {
   font-weight: 400;
   font-family: "Quattrocento Sans", sans-serif;
-  color: #2d75b9;
+  color: #afbac4;
 }
 
 p {
@@ -53,7 +53,7 @@ pre {
 
 ::selection {
   color: #fff;
-  background: #1800ce;
+  background: #00CE89;
 }
 
 hr {
