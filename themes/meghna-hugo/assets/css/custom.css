@@ -693,7 +693,7 @@ a:hover {
 }
 
 .form-meghna .form-control {
-    background-color: transparent;
+    background-color: rgb(40, 40, 40);
     border-radius: 0;
     padding: 5px 10px;
     color: #ddd;
@@ -950,7 +950,7 @@ a:hover {
     border-left: 1px solid rgba(236, 239, 241, 0.07);
     border-top: 1px solid rgba(236, 239, 241, 0.07);
     margin-bottom: 40px;
-    box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.7);
+    box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 3px 3px 0 #00CE89;
 }
 
 .service-block .service-icon {
@@ -1538,7 +1538,7 @@ input#e-mail,
 }
 
 .social-icon ul li a i {
-    color: #55606a;
+    color: #ffffff;
     display: inline-block;
     font-size: 32px;
     line-height: 70px;

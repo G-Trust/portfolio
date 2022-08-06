@@ -4,17 +4,21 @@ service:
   title : Our Services
   service_item :
     # service item loop
+    - name : Apps Development
+      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
+      image: images/blog/blog-post-2.jpg
+      content : Our team has extensive experience in full-stack web application development and API development with React, Java, Python, Node.js and more, we have the team to help you achieve your web applications.
+
+    # service item loop
     - name : Blockchain
       icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      image: images/blog/blog-post-2.jpg
       content : We offer blockchain consulting and development services to help you implement the best distributed system for your business needs. We can help you with the development of the blockchain protocol.
       
     # service item loop
     - name : MLops and Data Science
       icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+      image: images/blog/blog-post-2.jpg
       content : We offer MLops and Data Science consulting and development services to help you learn about the latest trends in machine learning and data science. We can help you with the development of MLops systems.
-    # service item loop
-    - name : Apps Development
-      icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Our team has extensive experience in full-stack web application development and API development with React, Java, Python, Node.js and more, we have the team to help you achieve your web applications.
       
 
