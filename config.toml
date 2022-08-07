@@ -70,7 +70,7 @@ weight = 5
 ################### English Navigation ########################
 [[Languages.en.menu.main]]
 name = "About"
-url = "#feature"
+url = "#about"
 weight = 1
 
 [[Languages.en.menu.main]]

@@ -1,5 +1,6 @@
 ############################# feature ###################################
 feature:
+  main: About Us
   enable : true
   image : images/about/about-business-man.jpg
   image_webp : images/about/about-business-man.webp
